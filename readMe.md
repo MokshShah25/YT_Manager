@@ -1,4 +1,4 @@
-# YouTube Manager — SQLite (project_2)
+# YouTube Manager — SQLite 
 
 A small command-line YouTube video manager that stores video records in a local SQLite database.
 
